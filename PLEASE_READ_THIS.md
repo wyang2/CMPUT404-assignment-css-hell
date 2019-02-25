@@ -22,3 +22,4 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Font-style function in assignment part1, works well on every web browser except firefox.  I have no idea about the reason, so i only took screenshot on chrome.

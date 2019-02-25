@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Felipa';
+	src: url('Felipa-Regular.tff') format('truetype');
+}
+p { text-indent: 2em; margin-top: .75em; text-align: justify; margin-bottom: .75em; font-family:'Felipa';}
+
+h1,h2,h3,h4,h5,h6 {text-align: center; clear: both;font-family: 'Felipa'}
+
+hr { width: 33%; margin-top: 2em; margin-bottom: 2em; margin-left: auto; margin-right: auto; clear: both;}
+
+table {margin-left: auto; margin-right: auto;}
+td {padding: 0.3em;}
+
+body{margin-left: 10%; margin-right: 10%; font-family: "Felipa"; background-image: url(); 	background-color: #aaa388; background-image: url("1.jpg");
+	background-size: 200% auto;}
+
+ul   { text-align: center; list-style: none; margin-left: 0em; padding-left: 1em; text-indent: -1em; }
+    /*.olrom    {text-align: left; list-style-type: upper-roman;}*/
+li   { margin-top: 0.5em; }
+
+    .bbox     {margin: auto; background-color: #DDE; color: #000; text-align: center; width:80%; padding:1em;}
+
+    .center   {text-align: center;}
+    .smcap    {font-variant: small-caps;}
+    .lowercase {font-size: 80%;}
+
+/*a img { border: 0; }
+    .caption  {font-weight: bold;}
+    .figcenter   {margin: auto; text-align: center;}
+    .figleft     {vertical-align: 0px;}
+    .figtop, .figbot  {float: left; clear: left; padding: 0em; margin-top: 0em; margin-left: 0em; margin-right: .5em;}
+    .figbot   {margin-bottom: .5px;}
+    img {vertical-align:bottom}*/
+img {
+    border-radius: 50%;
+}

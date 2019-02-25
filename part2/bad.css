@@ -1,0 +1,96 @@
+body{
+	margin: 0;
+	width:100%;
+	height: 100%;
+	background-image: url("2.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+/*.sidebar{
+	height: 100%;
+    width: 25%;
+    padding-top: 30px;
+    position: fixed;
+    background-color: #cd853f;
+}
+
+#programmer{
+	border-radius: 100%;
+	border: 2px black;
+	box-shadow: 0 2px 2px black;
+}
+
+#myname{
+	text-align:center;
+  	position: relative;
+
+}*/
+#myname{
+	font-family: Georgia, serif;
+	font-size: 36px;
+  	color: White;
+}
+.Info {
+	position: absolute;
+	height: 110%;
+	width:100%;
+	/*background-color: #2ecc71;*/
+
+}
+.pic_base{
+	left: 0%;
+	height: 20%;
+	background-color: #34495e;
+	background: url('back.jpeg');
+	background-size: cover;
+}
+.History{
+	position: relative;
+	vertical-align: bottom;
+}
+#history_info{
+	position:relative;
+}
+
+#batman_pic{
+	margin-top: 30px;
+	border-radius: 100%;
+	border: 2px black;
+	box-shadow: 0 2px 2px black;
+	position: absolute;
+	margin-left: 20px;
+}
+
+#panda_1{
+	left:30%;
+	position:absolute;
+
+
+}
+#title {
+	position: absolute;
+	font-family: verdana;
+	margin-left: 70%;
+	margin-top: 1%;
+	font-size: 40pt;
+}
+
+#profession{
+	position: absolute;
+	margin-top: 3.5%;
+	margin-left: 88%
+
+}
+
+.info_base{
+	margin-top: 2%;
+}
+
+#info{
+	font-size: 30px;
+}
+
+#description{
+	font-size: 30px;
+}
+
